@@ -23,7 +23,7 @@ Puppet Caddy module handles installing, configuring, and running Caddy server on
 include caddy
 ```
 
-### Install caddy with additiional features
+### Install caddy with additional features
 
 ```puppet
 class {'caddy':
@@ -43,7 +43,7 @@ caddy::vhost {'example2':
 }
 ```
 
-## Paramseters
+## Parameters
 
 ### ```caddy_features```
 
